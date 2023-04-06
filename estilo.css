@@ -1,0 +1,30 @@
+body{ background-image: url(Mar.jpg);}
+
+#fg{
+    border-color: rgb(32, 128, 212);
+    border-radius: 15px;
+    background-color: rgb(3, 39, 156);
+    border-style:dashed;
+    border-width: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+h1.t1{
+
+    font-family: 'arial';
+    
+
+}
+
+p.fr{
+    font-family:sans-serif;
+    font-size: medium;
+    font-style: oblique;
+}
+
+p.at{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, cursive;
+    ;
+}

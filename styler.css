@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:  content-box;
+}
+
+body{
+    height: 50;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 200px;
+}
+
+main#fg{
+    width: 600px;
+    height: 250px;
+    display:inline-flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+main#fg > * {
+    padding: 5px;
+
+}
+
+h1.t1{
+    text-align: center;
+}
+
+p.fr{
+    text-align: center;
+}
+
+p.at{
+    text-align: left;
+}
